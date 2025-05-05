@@ -30,6 +30,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishi3920&show_icons=true&locale=en&layout=compact" alt="Rishi3920" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rishi3920" alt="Rishi3920" /></a></p>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi3920/rishi3920/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishi3920/rishi3920/output/github-snake.svg" />
